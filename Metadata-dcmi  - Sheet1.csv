@@ -1,0 +1,14 @@
+Attribute,Value
+abstract,"The resource is a comparison of homeless demographics of two U.S. cities of similar population, Seattle and Oklahoma City, respectively. These cities were chosen for this dataset because of size but also because they have divergent politics."
+accessRights,Public
+audience,Policy Makers
+coverage,Oklahoma City
+coverage,Seattle
+creator,Seth Kurke
+format,CSV
+identifier,https://github.com/skurke1/okc-seattle-homeless
+language,en-us
+rights,Public
+subject,"""homelessness"", ""racial disparities"", ""seattle"", ""oklahoma city"""
+title,Homeless Comparison: Oklahoma City and Seattle
+type,Dataset
