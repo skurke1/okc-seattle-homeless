@@ -52,13 +52,14 @@ Schema Used: Dublin Core Metadata Initiative Project
 | audience | Policy Makers |
 | coverage | Oklahoma City |
 | coverage | Seattle |
+| date | 2020 |
 | description | The resource is a comparison of homeless demographics of two U.S. cities of similar population, Seattle and Oklahoma City, respectively. These cities were chosen for this dataset because of size but also because they have divergent politics. This dataset is intended to be valuable to policy makers.|
 | creator | Seth Kurke |
 | format | CSV |
 | identifier | [https://github.com/skurke1/okc-seattle-homeless](https://github.com/skurke1/okc-seattle-homeless)
-| issued | 2020-03-15 |
+| issued | 2021-03-08 |
 | language | en-us |
-| rights | 2020-03-15 |
+| rights |Public |
 | subject | &quot;homelessness&quot;, &quot;racial disparities&quot;, &quot;seattle&quot;, &quot;oklahoma city&quot;|
 | title | Homeless Comparison: Oklahoma City and Seattle |
 | type | Dataset |
